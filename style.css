@@ -1,0 +1,149 @@
+body{
+    background-image: url(background_photo.jpg);
+   font-family: Arial, Helvetica, sans-serif;
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin: 0%;
+   padding: 20px;
+   text-align: center;
+
+}
+
+ header{
+text-align: center;
+color:#a33148;
+font-size: 50px;
+font-weight: bolder;
+background-color: rgb(233, 220, 202);
+height: 140px;
+border: 2px solid black;
+border-radius: 40px;
+margin-bottom: 70px;
+}
+
+nav{ 
+text-align: center;
+ margin: 5px; 
+}
+
+button{
+    font-size: 20px;
+border: 2px solid black;
+border-radius: 10px;
+background-color: black;
+color:white;
+width: 200px;
+}
+
+a{
+text-decoration: none;
+color:rgb(155, 149, 149) ;
+}
+
+input{
+    text-align: center;
+    font-size: 20px;
+border: 2px solid black;
+border-radius: 10px;
+width: 150px;
+background-color: black;
+color: white;
+}
+
+div{
+    border: 2px solid black;
+    border-radius: 60px;
+    display: inline-block;
+    background-image: url(background_photo.jpg);
+    padding: 20px;
+    margin: 3px;
+}
+
+#p1{
+    color: rgb(186, 34, 113);
+    font-size: 20px;
+    box-shadow: 0 8px 25px;
+}
+
+
+img:hover{
+    box-shadow: 15px 10px 25px;
+}
+
+li:hover{
+    box-shadow: 0 8px 25px;
+    color:#fb6f92;
+}
+
+li{
+    font-size: 25px;
+    color: #004e89;
+}
+
+p{
+color: maroon;
+    font-size: 35px;
+    box-shadow: 0 8px 25px;
+}
+
+#gr{
+    color:#3b0313;
+}
+
+#cbr{
+    color: #0f4c5c;;
+}
+   
+#sr{
+    color: #825c50;
+}
+
+h3{
+    color:#00afb9;
+    font-size: 30px;
+}
+
+strong{
+    color: #c44900;
+    font-size: 26px;
+}
+
+u{
+    font-size: 45px;
+}
+
+.img1{
+    height: 280px;
+    width: 250px;
+    border: 5px solid #543c3c ;
+    border-radius: 30px;
+}
+
+
+.img2{
+    height: 320px; 
+    width: 280px; 
+    border: 5px solid #543c3c ;
+    border-radius: 30px;
+}
+
+.img3{
+    height: 360px;
+    width: 310px;
+    border: 5px solid #543c3c ;
+    border-radius: 30px;
+}
+
+
+footer{
+    text-align: center;
+color:#a33148;
+font-size: 50px;
+font-weight: bolder;
+background-color: rgb(233, 220, 202);
+height: 80px;
+border: 2px solid black;
+border-radius: 40px;
+margin-top: 50px;
+}
